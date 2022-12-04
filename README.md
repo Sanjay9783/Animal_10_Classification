@@ -23,6 +23,7 @@
 </div>
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
 <p align="justify">The major goal of this project is to create a system that will help animal researchers and photographers of wild animals deal with the numerous obstacles they face on a daily basis.</p>
 
 <p align="justify">In order to determine whether a patient has heart disease, I've employed a range of Machine Learning algorithms that were developed in Python. This classification algorithm predicts whether or not cardiac disease is present by using a binary variable as the goal variable and a range of characteristics as the input features.</p>
