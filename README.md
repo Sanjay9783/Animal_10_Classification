@@ -51,5 +51,10 @@ This is the final model that yielded the highest accuracy:
 
 ### Drive model directory:
 
-![image](https://user-images.githubusercontent.com/109721928/205480730-549137a1-6c5e-45e8-bac6-ebfd10c39264.JPG)
+![image](https://user-images.githubusercontent.com/109721928/205481324-2ed8c275-17d3-4cfb-808f-fe0fa1163eb0.png)
 [Link to Google Drive](https://drive.google.com/drive/folders/1uQ2tuu59U2VznxUM5vHde1eM0KbGdVLr?usp=share_link)
+
+### Streamlit application for above app:
+
+![image](https://user-images.githubusercontent.com/109721928/205481347-e211b7fb-6dc1-40df-a07f-04bb6a25df1e.png)
+[Link of streamlit app demo video](https://youtu.be/6-oYYR_iWGY)
