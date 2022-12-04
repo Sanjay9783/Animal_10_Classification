@@ -48,3 +48,8 @@ This is the final model that yielded the highest accuracy:
 
 * Training accuracy **97.08 %** and loss of **11.22 %**.
 * Validation accuracy **93.99 %** and loss of **24.05 %**.
+
+### Drive model directory:
+
+![image](https://user-images.githubusercontent.com/109721928/205480730-549137a1-6c5e-45e8-bac6-ebfd10c39264.JPG)
+[Link to Google Drive](https://drive.google.com/drive/folders/1uQ2tuu59U2VznxUM5vHde1eM0KbGdVLr?usp=share_link)
