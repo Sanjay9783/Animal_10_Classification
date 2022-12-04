@@ -26,9 +26,10 @@
 ## About The Project
 <p align="justify">The major goal of this project is to create a system that will help animal researchers and photographers of wild animals deal with the numerous obstacles they face on a daily basis.</p>
 
-<p align="justify">In order to determine whether a patient has heart disease, I've employed a range of Machine Learning algorithms that were developed in Python. This classification algorithm predicts whether or not cardiac disease is present by using a binary variable as the goal variable and a range of characteristics as the input features.</p>
+### Method:
 
-* Building a **Flask App** hosted on **Heroku**.
-* **Sklearn** for pre-processing and Model Building
-* Pandas, Numpy for csv reading, Data Processing, Data Cleaning, Visualization etc.
-* Machine Learning algorithms used: Logistic Regression (Scikit-learn)
+Convolutional neural networks is used to train images of animals from ten distinct species utilising thousands of labelled photos in the VGG16 transfer learning model.
+
+### Dataset:
+
+Data came from [Animals-10](https://www.kaggle.com/alessiocorrado99/animals10) dataset in kaggle. Only chose six of the available species due to computer processing limitations, as well as fixed time window to run experiment.
