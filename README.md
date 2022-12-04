@@ -18,6 +18,6 @@
     <br />
     <a href="https://github.com/Sanjay9783/Animal_10_Classification/blob/main/app.py">View Streamlit app code</a>
     ·
-    <a href="https://github.com/Sanjay9783/Heart_Disease_prediction/blob/main/Heart_Disease_Prediction.ipynb"> Model Building</a>
+    <a href="https://github.com/Sanjay9783/Animal_10_Classification/blob/main/model.ipynb"> Model Building</a>
   </p>
 </div>
