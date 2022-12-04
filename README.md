@@ -43,3 +43,10 @@ This is the final model that yielded the highest accuracy:
 ![image](https://user-images.githubusercontent.com/109721928/205480339-dcff7300-a3ad-4590-8349-560a2f18025c.JPG)
 
 ![image](https://user-images.githubusercontent.com/109721928/205480359-c56b70d7-a3f8-480e-88b1-ba2190d10cc8.JPG)
+
+### Acuraccy and loss of above model:
+
+* Building a **Flask App** hosted on **Heroku**.
+* **Sklearn** for pre-processing and Model Building
+* Pandas, Numpy for csv reading, Data Processing, Data Cleaning, Visualization etc.
+* Machine Learning algorithms used: Logistic Regression (Scikit-learn)
