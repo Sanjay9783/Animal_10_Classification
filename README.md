@@ -32,4 +32,14 @@ Convolutional neural networks is used to train images of animals from ten distin
 
 ### Dataset:
 
-Data came from [Animals-10](https://www.kaggle.com/alessiocorrado99/animals10) dataset in kaggle. Only chose six of the available species due to computer processing limitations, as well as fixed time window to run experiment.
+Data came from [Animals-10](https://www.kaggle.com/datasets/alessiocorrado99/animals10) dataset in kaggle.
+
+### CNN Model for Animal_10_classification:
+
+This is the final model that yielded the highest accuracy: 
+
+![image](https://user-images.githubusercontent.com/109721928/205480317-0610fcfb-fac3-40db-bb86-39cf2f6a1b12.JPG)
+
+![image](https://user-images.githubusercontent.com/109721928/205480339-dcff7300-a3ad-4590-8349-560a2f18025c.JPG)
+
+![image](https://user-images.githubusercontent.com/109721928/205480359-c56b70d7-a3f8-480e-88b1-ba2190d10cc8.JPG)
