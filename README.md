@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Sanjay9783">
-    <img src="" alt="Logo" width="200" height="200"/> 
+    <img src="https://user-images.githubusercontent.com/109721928/205478946-3aeb63ff-27ff-4bea-9c04-77c2658dd42b.JPG" alt="Logo" width="200" height="200"/> 
   </a>
   
   <h3 align="center">Animal_10_Classification</h3>
